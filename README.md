@@ -1,5 +1,5 @@
 # Introduction
-Welcome to my public repository for my code written by AI. 
+Welcome to Christian Marheim's public repository for code written by AI. 
 
 My applications are currently being moved to this repository as a static showcase due to Github automatically flagging my daily driver account https://github.com/christianmarheim-ai-made-only/ when using AI to code.
 For any questions, reach out to my LinkedIn profile.
@@ -14,3 +14,5 @@ The applications are:
 ** Server
 * Strategic Analyser tool for fantasy-universe called Starcraft
 * llm-bootstrap - client/server/coordinator - For running pipelines and apps on my local GPU
+* Trading apps for various strategies
+* Torrent-client in Go
